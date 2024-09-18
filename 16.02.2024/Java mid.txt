@@ -1,0 +1,14 @@
+1st set:
+OOP Concept, Feature, JVM, JDk, Object ,class, Hello World realted Problem.
+
+2nd set:
+Operator (c vs java ) , Memory concept. Data type , identifier , class name (String vs string)
+
+3rd set:
+UML to code ( or thakbe)
+
+4th set:
+String (Constructor related) 4th class
+
+5th set :
+Inheritence, polymorphism, encapsulation, (overloading, overriding) -10 marks ( or thakbe)
